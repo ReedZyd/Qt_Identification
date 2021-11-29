@@ -9,5 +9,6 @@ The human-computer interaction interface is written based on Qt, and the overall
 ## Reqirements
 * Qt: 5.6.3
 * Qt Creator: 4.0
+* Seeta Face: 1.0
 * Opencv: 4.3.1
                                    
