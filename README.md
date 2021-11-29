@@ -10,17 +10,18 @@ The human-computer interaction interface is written based on Qt, and the overall
 * **Excellent graduation thesis in Shandong University, 2019.**
 <div align=center>
 Overall Design
+  <br>
 
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/overall.png" width = 500px>
 </div>
 <div align=center>
 Hardware Implementation
-
+  <br>
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/all.png" width = 500px>
 </div>
 <div align=center>
 Human-Computer Interaction Interface
-
+  <br>
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/interface.png" width = 500px>
 </div>
 
