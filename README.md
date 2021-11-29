@@ -26,4 +26,9 @@ The human-computer interaction interface is written based on Qt, and the overall
 * Qt Creator: 4.0
 * Seeta Face: 1.0
 * Opencv: 4.3.1
-                                   
+
+## More
+
+Seeta Face: https://github.com/seetaface/SeetaFaceEngine
+SSR-Net: https://github.com/shamangary/SSR-Net
+
