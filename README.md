@@ -6,6 +6,8 @@ The human-computer interaction interface is written based on Qt, and the overall
 
 [Demo](https://youtu.be/NF3fH1ATLVY)
 
+
+![image](https://github.com/ReedZyd/Qt_Identification/edit/main/imgs/interface.png)
 ## Reqirements
 * Qt: 5.6.3
 * Qt Creator: 4.0
