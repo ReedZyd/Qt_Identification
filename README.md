@@ -9,8 +9,9 @@ The human-computer interaction interface is written based on Qt, and the overall
 * [Demo](https://youtu.be/NF3fH1ATLVY)
 * **Excellent graduation thesis in Shandong University, 2019.**
 
-## 
+
 <div align=center>
+  <br>
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/overall.png" width = 500px>
   <br>
   Overall Design
