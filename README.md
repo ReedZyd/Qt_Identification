@@ -8,19 +8,19 @@ The system uses Seta Face as the core algorithm for face recognition and SSR-Net
 The human-computer interaction interface is written based on Qt, and the overall system is implemented on a 43-inch vertical all-in-one. In addition, a parallel execution of face recognition and age estimation is carried out by multi-thread technology.
 * [Demo](https://youtu.be/NF3fH1ATLVY)
 * **Excellent graduation thesis in Shandong University, 2019.**
-
-* Overall Design
 <div align=center>
+Overall Design
+
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/overall.png" width = 500px>
 </div>
-
-* Hardware Implementation
 <div align=center>
+Hardware Implementation
+
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/all.png" width = 500px>
 </div>
-
-* Human-Computer Interaction Interface
 <div align=center>
+Human-Computer Interaction Interface
+
   <img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/interface.png" width = 500px>
 </div>
 
