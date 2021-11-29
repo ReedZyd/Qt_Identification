@@ -6,12 +6,12 @@ The human-computer interaction interface is written based on Qt, and the overall
 
 [Demo](https://youtu.be/NF3fH1ATLVY)
 
-![image](https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/overall.png)
+<img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/overall.png" width = 200px>
 
-![image](https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/all.png)
+<img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/all.png" width = 200px>
 
+<img src="https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/interface.png" width = 200px>
 
-![image](https://github.com/ReedZyd/Qt_Identification/blob/main/imgs/interface.png)
 
 ## Reqirements
 * Qt: 5.6.3
